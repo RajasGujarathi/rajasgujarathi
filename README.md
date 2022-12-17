@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm DevOps Engineer & AWS Architect with 10+ years of hands-on experience in architecting/automating and optimizing mission-critical deployments over a large infrastructure. Led teams of 5-15 people across technology, business, and design departments. Adept at developing solutions and determining customer satisfaction.
+
 <!--
 **RajasGujarathi/rajasgujarathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
